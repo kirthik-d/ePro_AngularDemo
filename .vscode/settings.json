@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/8674fa46-658c-4396-b6bf-71bd5f642a2b/AppServices/subscriptions/8674fa46-658c-4396-b6bf-71bd5f642a2b/resourceGroups/Kirthik_resource_group/providers/Microsoft.Web/sites/angularepro0212",
+    "appService.deploySubpath": "dist\\ePro"
+}
